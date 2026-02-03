@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: 45 19 * * 1-5
+    - cron: 45 20 * * 1-5
   workflow_dispatch:
 permissions:
   scm-token-own: read
