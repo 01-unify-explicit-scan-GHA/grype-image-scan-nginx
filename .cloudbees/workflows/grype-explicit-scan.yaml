@@ -21,3 +21,4 @@ jobs:
         uses: cloudbees-io/grype-plugin@v1
         with:
           binary-tar-path: ./nginx.tar
+          
